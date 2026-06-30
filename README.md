@@ -2,8 +2,9 @@
 
 ## Hi, I'm a beginner learning Red Team 🐺
 
-</div>
 https://img.shields.io/badge/Status-Always%20Learning-000000?style=for-the-badge&labelColor=0a0a0f
+
+</div>
 <!--
 **3x1x/3x1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
