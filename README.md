@@ -2,7 +2,7 @@
 
 ## Hi, I'm a beginner learning Red Team 🐺
 
-https://img.shields.io/badge/Status-Always%20Learning-000000?style=for-the-badge&labelColor=0a0a0f
+![Status](https://img.shields.io/badge/Status-Always%20Learning-000000?style=for-the-badge&labelColor=0a0a0f)
 
 </div>
 <!--
