@@ -18,7 +18,6 @@ Here are some ideas to get you started:
     
 ### 🔴 Offensive
 ![Pentesting](https://img.shields.io/badge/Penetration%20Testing-6A0DAD?style=flat-square&logo=kalilinux&logoColor=white)
-![Web Hacking](https://img.shields.io/badge/Web%20Hacking-6A0DAD?style=flat-square&logo=owasp&logoColor=white)
 ![Privilege Escalation](https://img.shields.io/badge/PrivEsc-6A0DAD?style=flat-square&logo=linux&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red%20Team-6A0DAD?style=flat-square&logo=target&logoColor=white)
 ![Social Engineering](https://img.shields.io/badge/Social%20Engineering-6A0DAD?style=flat-square&logo=hackaday&logoColor=white)
@@ -46,14 +45,7 @@ Here are some ideas to get you started:
 ![Ghidra](https://img.shields.io/badge/Ghidra-B44FFF?style=flat-square&logo=nsa&logoColor=0a0a0f)
  
 ### 📡 Hardware & Physical
-![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-B44FFF?style=flat-square&logo=flipboard&logoColor=0a0a0f)
-![HackRF One](https://img.shields.io/badge/HackRF%20One-B44FFF?style=flat-square&logo=radio&logoColor=0a0a0f)
-![Proxmark](https://img.shields.io/badge/Proxmark%203-B44FFF?style=flat-square&logo=nfc&logoColor=0a0a0f)
-![Bus Pirate](https://img.shields.io/badge/Bus%20Pirate-B44FFF?style=flat-square&logo=raspberrypi&logoColor=0a0a0f)
-![Chameleon Ultra](https://img.shields.io/badge/Chameleon%20Ultra-B44FFF?style=flat-square&logo=contactlesspayment&logoColor=0a0a0f)
-![Rubber Ducky](https://img.shields.io/badge/USB%20Rubber%20Ducky-B44FFF?style=flat-square&logo=usb&logoColor=0a0a0f)
-![WiFi Pineapple](https://img.shields.io/badge/WiFi%20Pineapple-B44FFF?style=flat-square&logo=wifi&logoColor=0a0a0f)
- 
+!
 ### 🏴 CTF & Platforms
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-7B2FBE?style=flat-square&logo=hackthebox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-7B2FBE?style=flat-square&logo=tryhackme&logoColor=white)
